@@ -2486,3 +2486,11 @@ Entries:
       message: Wardens will now spawn with the correct headset.
   id: 311
   time: '2026-05-01T04:55:28.0000000+00:00'
+- author: OrenjiKnight
+  changes:
+    - type: Tweak
+      message: >-
+        Slightly altered vector's firerate to fix small bug and balance it out a
+        little more in single-shot.
+  id: 312
+  time: '2026-05-01T04:56:22.0000000+00:00'

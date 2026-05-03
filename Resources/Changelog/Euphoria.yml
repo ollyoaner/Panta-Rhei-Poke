@@ -2569,3 +2569,13 @@ Entries:
       message: Updated server rules
   id: 321
   time: '2026-05-02T23:29:11.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Remove
+      message: Removed brute damage from histamine
+    - type: Tweak
+      message: >-
+        Lowered threshold for histamine before epinephrine takes effect from 45
+        to 5
+  id: 322
+  time: '2026-05-03T04:38:29.0000000+00:00'

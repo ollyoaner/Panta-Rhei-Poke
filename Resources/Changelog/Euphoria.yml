@@ -2647,3 +2647,11 @@ Entries:
         locker.
   id: 332
   time: '2026-05-06T12:05:59.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Pig not giving bacon. They now give Pork, that can be cut into
+        bacon.
+  id: 333
+  time: '2026-05-06T12:11:54.0000000+00:00'

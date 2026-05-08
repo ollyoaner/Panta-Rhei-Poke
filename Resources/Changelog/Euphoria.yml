@@ -2699,3 +2699,9 @@ Entries:
       message: Brings back the Speed Boots.
   id: 338
   time: '2026-05-08T10:10:05.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Katana Belt to Security Loadout (firearms)
+  id: 339
+  time: '2026-05-08T10:13:07.0000000+00:00'

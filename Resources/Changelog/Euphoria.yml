@@ -2829,3 +2829,11 @@ Entries:
       message: Telepads now receive orders from all multitool-linked devices!
   id: 354
   time: '2026-05-15T11:27:05.0000000+00:00'
+- author: Tarazicon
+  changes:
+    - type: Add
+      message: >-
+        Added a new consent toggle to disable smelling all together. Shadekin
+        players, rejoice.
+  id: 355
+  time: '2026-05-15T11:30:51.0000000+00:00'

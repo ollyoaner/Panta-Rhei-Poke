@@ -2895,3 +2895,11 @@ Entries:
       message: Patched handling components with voresystem
   id: 361
   time: '2026-05-16T05:52:50.0000000+00:00'
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: Added docks to arena plus pets. Added other minor things.
+    - type: Tweak
+      message: Adjusted evac on arena
+  id: 362
+  time: '2026-05-16T21:32:16.0000000+00:00'

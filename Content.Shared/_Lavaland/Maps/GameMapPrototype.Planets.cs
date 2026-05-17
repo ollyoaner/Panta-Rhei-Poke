@@ -4,11 +4,12 @@ using Robust.Shared.Prototypes;
 // ReSharper disable once CheckNamespace
 namespace Content.Shared.Maps;
 
-public sealed partial class GameMapPrototype
-{
-    /// <summary>
-    /// Contains info about planets that we have to spawn assigned from this game map.
-    /// </summary>
-    [DataField]
-    public List<ProtoId<LavalandMapPrototype>> Planets = new() { "Lavaland" };
-}
+// Floofstation - no. Use StationPlanetSpawnerSystem.
+// public sealed partial class GameMapPrototype
+// {
+//     /// <summary>
+//     /// Contains info about planets that we have to spawn assigned from this game map.
+//     /// </summary>
+//     [DataField]
+//     public List<ProtoId<LavalandMapPrototype>> Planets = new() { "Lavaland" };
+// }

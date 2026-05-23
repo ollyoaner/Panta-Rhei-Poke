@@ -3033,3 +3033,9 @@ Entries:
       message: The mother loaf has blessed a loaf of bread that can be used as a bible.
   id: 376
   time: '2026-05-23T04:16:48.0000000+00:00'
+- author: XavyBoio
+  changes:
+    - type: Add
+      message: Added the Jaunter - an Anti-Chasm tool with one-time use.
+  id: 377
+  time: '2026-05-23T04:30:23.0000000+00:00'

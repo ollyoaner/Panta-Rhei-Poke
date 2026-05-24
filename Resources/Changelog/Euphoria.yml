@@ -3079,3 +3079,11 @@ Entries:
       message: Fixed Unborgable Text
   id: 383
   time: '2026-05-24T09:52:52.0000000+00:00'
+- author: LynnWaffle
+  changes:
+    - type: Add
+      message: >-
+        Vulp base female sprites have boobs and hips now, two variants of the
+        crest sprites so they fit with the new base sprite
+  id: 384
+  time: '2026-05-24T10:44:09.0000000+00:00'

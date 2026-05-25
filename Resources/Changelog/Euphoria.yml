@@ -3153,3 +3153,9 @@ Entries:
         Atmospherics is researched.
   id: 394
   time: '2026-05-25T07:23:06.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: The chefs locker on Arena will now spawn in correctly.
+  id: 395
+  time: '2026-05-25T07:32:45.0000000+00:00'

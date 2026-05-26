@@ -285,7 +285,7 @@ public sealed class HealthAnalyzerSystem : EntitySystem
             || !HasComp<DamageableComponent>(target))
             return;
 
-        var uiState = GetHealthAnalyzerUiState(target, part); // Shitmed Change
+        var uiState = GetHealthAnalyzerUiState(target, healthAnalyzer, part); // Shitmed Change
         uiState.ScanMode = scanMode;
 
         _uiSystem.ServerSendUiMessage(
@@ -302,7 +302,7 @@ public sealed class HealthAnalyzerSystem : EntitySystem
     /// <param name="healthAnalyzer">Floofstation - health analyzer being used, if any. Do not neglect this.</param>
     /// <param name="part">Shitmed Change: The body part being scanned, if any</param>
     /// <returns></returns>
-    public HealthAnalyzerUiState GetHealthAnalyzerUiState(EntityUid? target, EntityUid? healthAnalyzer, EntityUid? part = null)
+    public HealthAnalyzerUiState GetHealthAnalyzerUiState(EntityUid? target, EntityUid? healthAnalyzer, EntityUid? part) // Floofstation - also made the part parameter have no default value cus high chance of making a mistake here
     {
         if (!target.HasValue || !HasComp<DamageableComponent>(target))
             return new HealthAnalyzerUiState();
@@ -340,7 +340,7 @@ public sealed class HealthAnalyzerSystem : EntitySystem
             GetNetEntity(entity),
             bodyTemperature,
             bloodAmount,
-            null,
+            null, // Floofstation note: caller overrides this for some fucking fucked up evil reason
             bleeding,
             unrevivable,
 

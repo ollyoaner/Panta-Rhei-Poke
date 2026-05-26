@@ -31,3 +31,6 @@
   - type: GuideHelp
     guides:
     - MedicalDoctor
+  - type: HealthAnalyzerPrinter # Floofstation
+    printTemplate: PaperWrittenMedicalMedtekPatientRecord
+

@@ -3167,3 +3167,9 @@ Entries:
         seen around station.
   id: 396
   time: '2026-05-25T07:49:21.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Bepis will now display in hand properly.
+  id: 397
+  time: '2026-05-26T12:31:12.0000000+00:00'

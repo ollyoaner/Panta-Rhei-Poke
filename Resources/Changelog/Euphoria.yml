@@ -3234,3 +3234,11 @@ Entries:
         lavaland won't try to generate 1 million tiles at once.
   id: 405
   time: '2026-05-30T05:41:49.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: The cold weather poncho has been added to neck wear in loadouts.
+    - type: Tweak
+      message: Chaplains should now have access to all the hats that passengers do.
+  id: 406
+  time: '2026-05-30T05:52:37.0000000+00:00'

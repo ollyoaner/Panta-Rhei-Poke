@@ -3304,3 +3304,9 @@ Entries:
       message: PTL is 5x more resistant to charging.
   id: 414
   time: '2026-05-31T11:35:32.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: Fixes various circuits in totes.
+  id: 415
+  time: '2026-05-31T11:45:45.0000000+00:00'

@@ -3479,3 +3479,11 @@ Entries:
         their icons in chat, similarly to how it was on pre-rebase floof.
   id: 436
   time: '2026-06-09T11:57:48.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Paper envelopes can be printed using the document printer or hand folded
+        through the construction menu.
+  id: 437
+  time: '2026-06-09T11:58:42.0000000+00:00'

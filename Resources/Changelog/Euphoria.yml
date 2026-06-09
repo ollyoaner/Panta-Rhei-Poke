@@ -3487,3 +3487,11 @@ Entries:
         through the construction menu.
   id: 437
   time: '2026-06-09T11:58:42.0000000+00:00'
+- author: SlowVelcro
+  changes:
+    - type: Tweak
+      message: >-
+        Changed punctuation in most holy book names to use title case for
+        capitalisation.
+  id: 438
+  time: '2026-06-09T21:06:14.0000000+00:00'

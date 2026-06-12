@@ -3560,3 +3560,11 @@ Entries:
         alternative PDAs.
   id: 446
   time: '2026-06-12T19:22:16.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: The Tajaran language of Siik'Maas has been restored.
+    - type: Tweak
+      message: Tajara now have Siik'Maas as their primary language.
+  id: 447
+  time: '2026-06-12T19:28:49.0000000+00:00'

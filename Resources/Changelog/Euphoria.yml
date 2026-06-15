@@ -3610,3 +3610,11 @@ Entries:
       message: The Carp Chew Toy is now available in loadouts.
   id: 453
   time: '2026-06-15T07:11:06.0000000+00:00'
+- author: Compilatron144
+  changes:
+    - type: Fix
+      message: >-
+        Fixed an issue with lewd modifier traits disconnecting organ solutions
+        from the body.
+  id: 454
+  time: '2026-06-15T22:46:03.0000000+00:00'

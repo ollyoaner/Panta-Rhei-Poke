@@ -3672,3 +3672,15 @@ Entries:
       message: The automatic evacuation shuttle call now has an IC tiebreaker system.
   id: 458
   time: '2026-06-17T11:14:06.0000000+00:00'
+- author: M3739
+  changes:
+    - type: Add
+      message: >-
+        Added barista stuff from Monolith, which includes teas, powders, snacks,
+        and cups.
+    - type: Add
+      message: >-
+        A flatpack of the relevant vending machine is in the bartender's locker
+        as a temporary measure until it is mapped.
+  id: 459
+  time: '2026-06-18T10:09:30.0000000+00:00'

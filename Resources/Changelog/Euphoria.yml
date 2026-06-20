@@ -3762,3 +3762,9 @@ Entries:
       message: Most species should leave footprints again.
   id: 470
   time: '2026-06-20T23:38:32.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: Added the Foreign Origin trait. A clean slate for customizing languages.
+  id: 471
+  time: '2026-06-20T23:40:29.0000000+00:00'

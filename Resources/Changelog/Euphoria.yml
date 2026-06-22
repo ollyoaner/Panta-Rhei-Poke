@@ -3834,3 +3834,16 @@ Entries:
       message: Add increased thirst to Enhanced Regeneration
   id: 479
   time: '2026-06-22T09:15:24.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        When editing loadouts, you can now choose to copy loadout metadata or
+        even the entire loadout to other jobs. Hover your mouse over the
+        checkboxes in the loadout metadata editor for more info.
+    - type: Fix
+      message: >-
+        Fixed a couple bugs related to loadouts. Most notably, the character
+        preview should now correctly display loadouts with a custom color tint.
+  id: 480
+  time: '2026-06-22T09:19:57.0000000+00:00'

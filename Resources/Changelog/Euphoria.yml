@@ -3871,3 +3871,11 @@ Entries:
       message: Geras having an AI (or at least wandering while SSD)
   id: 482
   time: '2026-06-23T10:41:32.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Envelopes will no longer eat the first paper you put into them after
+        manually crafting.
+  id: 483
+  time: '2026-06-23T10:46:09.0000000+00:00'

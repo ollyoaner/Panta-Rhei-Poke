@@ -3879,3 +3879,16 @@ Entries:
         manually crafting.
   id: 483
   time: '2026-06-23T10:46:09.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: >-
+        Construction bags are now available to Engineering on shift start, can
+        be found in the Engineering Vendor or printed at the Engineering
+        techfab.
+    - type: Add
+      message: >-
+        Construction Bag of Holding has been added to t2 advanced tools research
+        and can hold much more than the basic Construction bag.
+  id: 484
+  time: '2026-06-25T09:20:39.0000000+00:00'

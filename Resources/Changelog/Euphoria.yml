@@ -4004,3 +4004,11 @@ Entries:
       message: The gambling update is real. Go big or go home broke.
   id: 500
   time: '2026-06-30T11:27:49.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: >-
+        Clerk, Librarian, Musician, Prisoner, Senior Officer & Warden should no
+        longer get duplicate PDAs when joining a round.
+  id: 501
+  time: '2026-06-30T11:29:26.0000000+00:00'

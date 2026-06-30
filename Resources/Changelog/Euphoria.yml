@@ -3950,3 +3950,11 @@ Entries:
         closely match the health analyser readout.
   id: 492
   time: '2026-06-29T02:57:31.0000000+00:00'
+- author: KyuPolaris
+  changes:
+    - type: Remove
+      message: >-
+        Removed fractured form psionic power (pending fix as it currently is
+        causing more ahelps than desired)
+  id: 493
+  time: '2026-06-30T04:21:25.0000000+00:00'

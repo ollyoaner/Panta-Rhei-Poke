@@ -4054,3 +4054,9 @@ Entries:
         burn them, eat them and fax them.
   id: 505
   time: '2026-07-02T04:23:34.0000000+00:00'
+- author: deltaSpawn0040
+  changes:
+    - type: Add
+      message: Added the Food Critic as a ghost role.
+  id: 506
+  time: '2026-07-04T01:51:17.0000000+00:00'

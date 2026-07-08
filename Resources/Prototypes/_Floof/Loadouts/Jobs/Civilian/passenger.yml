@@ -582,6 +582,12 @@
     jumpsuit: ClothingUniformBlackPetticoatDress
   groupBy: "dresses"
 
+- type: loadout
+  id:   ClothingUniformJumpskirtDressGothic
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtDressGothic
+  groupBy: "dresses"
+
 # shoes
 - type: loadout
   id: ClothingShoesBootsJack

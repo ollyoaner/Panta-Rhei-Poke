@@ -4284,3 +4284,11 @@ Entries:
       message: Grills and Electric Ranges can now heat liquids in beakers.
   id: 531
   time: '2026-07-12T09:09:28.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Changed Dispel to deal less to player controlled entities.
+    - type: Fix
+      message: Fixed Behonker being deleted on dispel.
+  id: 532
+  time: '2026-07-12T09:10:25.0000000+00:00'

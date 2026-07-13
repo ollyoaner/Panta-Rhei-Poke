@@ -4344,3 +4344,11 @@ Entries:
         few more things have been fixed.
   id: 538
   time: '2026-07-13T06:45:23.0000000+00:00'
+- author: SlowVelcro
+  changes:
+    - type: Fix
+      message: >-
+        Fixed thaven species-specific sprites not being used when worn by
+        thavens.
+  id: 539
+  time: '2026-07-13T06:46:25.0000000+00:00'

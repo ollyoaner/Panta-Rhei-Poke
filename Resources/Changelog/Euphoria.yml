@@ -4408,3 +4408,11 @@ Entries:
         direction toggle.
   id: 546
   time: '2026-07-16T09:12:33.0000000+00:00'
+- author: faefyr
+  changes:
+    - type: Add
+      message: >-
+        Smexy clown fit for femme presenting characters inspired by Geiru
+        Toneido
+  id: 547
+  time: '2026-07-16T09:14:18.0000000+00:00'

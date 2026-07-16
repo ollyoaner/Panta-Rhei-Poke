@@ -4394,3 +4394,9 @@ Entries:
         available in the trinkets group)
   id: 544
   time: '2026-07-16T09:10:00.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Remove
+      message: Removed Ratkings ability to butcher due to abuse.
+  id: 545
+  time: '2026-07-16T09:10:45.0000000+00:00'

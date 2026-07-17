@@ -4416,3 +4416,11 @@ Entries:
         Toneido
   id: 547
   time: '2026-07-16T09:14:18.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Changed Frezon to make you high for half the time, and Haloperidol to be
+        3 times as effective against being high.
+  id: 548
+  time: '2026-07-17T09:38:18.0000000+00:00'

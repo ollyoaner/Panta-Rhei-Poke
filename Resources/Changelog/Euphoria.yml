@@ -4430,3 +4430,15 @@ Entries:
       message: Many more undergarment options have been added for better customization.
   id: 549
   time: '2026-07-17T13:27:44.0000000+00:00'
+- author: StrawOfMan
+  changes:
+    - type: Add
+      message: >-
+        Added the Research chassis, quad variant, associated modules, and new
+        generic ones too!
+    - type: Tweak
+      message: >-
+        Engineering cyborgs can now do a few more of their duties! Generic
+        cyborgs are no longer a kinda-science chassis.
+  id: 550
+  time: '2026-07-17T13:28:29.0000000+00:00'

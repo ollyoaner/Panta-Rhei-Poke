@@ -4454,3 +4454,9 @@ Entries:
       message: Fixed issue where pomegranate seeds didn't have a language file entry.
   id: 552
   time: '2026-07-19T06:05:59.0000000+00:00'
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Aphrodesiac Bite traitt~
+  id: 553
+  time: '2026-07-20T07:53:15.0000000+00:00'

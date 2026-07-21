@@ -4482,3 +4482,11 @@ Entries:
         Be even more paper-thin! Die fast!
   id: 556
   time: '2026-07-21T13:09:38.0000000+00:00'
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Added a new Hard Skin trait. Med will hate you.
+    - type: Tweak
+      message: Chitinids are now properly uninjectable.
+  id: 557
+  time: '2026-07-21T13:11:41.0000000+00:00'

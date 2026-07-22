@@ -4506,3 +4506,11 @@ Entries:
       message: Dr. Gibb Creamsoda Lobby Art
   id: 559
   time: '2026-07-22T10:12:24.0000000+00:00'
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Changes freezers to no longer lock. (This means you can actually use the
+        Pathfinder freezer.)
+  id: 560
+  time: '2026-07-22T10:27:29.0000000+00:00'

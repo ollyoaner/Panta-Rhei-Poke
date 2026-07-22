@@ -4528,3 +4528,9 @@ Entries:
       message: Added cowbell collar
   id: 562
   time: '2026-07-22T10:30:46.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Add
+      message: Rods are back on the menu hitting stations near you.
+  id: 563
+  time: '2026-07-22T10:34:55.0000000+00:00'

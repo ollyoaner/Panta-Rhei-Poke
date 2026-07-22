@@ -4534,3 +4534,9 @@ Entries:
       message: Rods are back on the menu hitting stations near you.
   id: 563
   time: '2026-07-22T10:34:55.0000000+00:00'
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Ported language prefixes from Starlight for QoL!
+  id: 564
+  time: '2026-07-22T13:40:57.0000000+00:00'

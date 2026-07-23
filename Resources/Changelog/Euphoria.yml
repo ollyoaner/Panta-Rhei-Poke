@@ -4548,3 +4548,11 @@ Entries:
       message: Fixed various Asterisk comms, wires and doors accesses
   id: 565
   time: '2026-07-22T16:17:33.0000000+00:00'
+- author: DuskyJay
+  changes:
+    - type: Fix
+      message: >-
+        Fixed error that made it impossible to examine the collar ID of someone
+        wearing a translator in their ID slot.
+  id: 566
+  time: '2026-07-23T04:47:40.0000000+00:00'

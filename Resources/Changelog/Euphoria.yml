@@ -4582,3 +4582,11 @@ Entries:
       message: Added a medical license and doctorate to loadouts.
   id: 570
   time: '2026-07-24T08:51:13.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        In the loadouts menu, nudity permits and other utility inner clothing
+        items are no longer grouped together with latex catsuits.
+  id: 571
+  time: '2026-07-24T08:51:56.0000000+00:00'

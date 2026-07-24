@@ -4576,3 +4576,9 @@ Entries:
       message: Natives of lavaland will no longer die as a result of ash storms.
   id: 569
   time: '2026-07-24T08:50:33.0000000+00:00'
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Added a medical license and doctorate to loadouts.
+  id: 570
+  time: '2026-07-24T08:51:13.0000000+00:00'

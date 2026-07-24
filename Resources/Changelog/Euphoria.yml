@@ -4570,3 +4570,9 @@ Entries:
         in MMI's in the open.)
   id: 568
   time: '2026-07-23T09:21:54.0000000+00:00'
+- author: SyaoranFox
+  changes:
+    - type: Fix
+      message: Natives of lavaland will no longer die as a result of ash storms.
+  id: 569
+  time: '2026-07-24T08:50:33.0000000+00:00'
